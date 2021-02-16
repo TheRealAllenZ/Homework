@@ -1,6 +1,6 @@
 # UW - Fintech HW assignment #1
-02. 08. 2021’ 
-─
+02.08.2021’ 
+---
 ## Allen Wu
 Fintech Bootcamp 
 2021 - Cohort 
